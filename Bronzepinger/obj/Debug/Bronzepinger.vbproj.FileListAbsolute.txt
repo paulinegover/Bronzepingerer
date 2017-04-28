@@ -1,0 +1,15 @@
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\bin\Debug\Bronzepinger.exe.config
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\bin\Debug\Bronzepinger.exe
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\bin\Debug\Bronzepinger.pdb
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\bin\Debug\Bronzepinger.xml
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.vbprojResolveAssemblyReference.cache
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.Form1.resources
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.Resources.resources
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.vbproj.GenerateResource.Cache
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.exe
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.xml
+c:\users\i\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.pdb
+C:\Users\I\Documents\Visual Studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.Form2.resources
+C:\Users\I\Documents\Visual Studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.Form3.resources
+C:\Users\I\Documents\Visual Studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.Form4.resources
+C:\Users\I\documents\visual studio 2017\Projects\Bronzepinger\Bronzepinger\obj\Debug\Bronzepinger.Form5.resources
